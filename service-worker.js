@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.f7aa7c84490e820e4219dbec7f63cb60.js"
+  "/precache-manifest.683b0fbf8e357d75fe72c22358fcd32c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "gtrack"});
